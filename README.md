@@ -30,9 +30,21 @@ The analysis covers customer behavior, sales trends, and market potential to gui
 ---
 
 ## 📊 Key Insights  
-- **Delhi**: Largest customer base and highest estimated coffee consumers → strong flagship potential.  
-- **Pune**: High average sales per customer with cost-efficient rent → best ROI city.  
-- **Jaipur**: Attractive rent-to-sales ratio with solid customer traction → cost-effective expansion.  
+### City 1: Pune: High average sales per customer with cost-efficient rent → best ROI city.  
+- **Average rent per customer is very low.**  
+- **Highest total revenue.**  
+- **Average sales per customer is also high.**  
+
+### City 2: Delhi: Largest customer base and highest estimated coffee consumers → strong flagship potential.  
+- **Highest estimated coffee consumers: 7.7 million.**  
+- **Highest total number of customers: 68.**  
+- **Average rent per customer: 330 (still under 500).**  
+
+### City 3: Jaipur: Attractive rent-to-sales ratio with solid customer traction → cost-effective expansion.  
+- **Highest number of customers: 69.**  
+- **Average rent per customer: very low at 156.**  
+- **Average sales per customer: 11.6k.**  
+
 
 📌 **Recommended Cities for New Stores:** **Pune, Delhi, Jaipur**  
 
