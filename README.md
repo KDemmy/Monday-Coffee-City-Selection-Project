@@ -28,6 +28,9 @@ The analysis covers customer behavior, sales trends, and market potential to gui
 - **Business KPI Design:** avg sales per customer, rent vs sales ratio, growth rates.  
 
 ---
+<img width="963" height="395" alt="image" src="https://github.com/user-attachments/assets/07aa7d10-5c8b-4272-acae-76a21aef01c8" />
+
+<img width="926" height="429" alt="image" src="https://github.com/user-attachments/assets/31d94594-7ead-4e7f-81f2-cbf6cb04219a" />
 
 ## 📊 Key Insights  
 ### City 1: Pune: High average sales per customer with cost-efficient rent → best ROI city.  
